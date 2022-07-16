@@ -1,0 +1,20 @@
+.logo{
+    
+        background-color: #f8da42;;
+        color: black;
+        width: 200px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem 1.5rem;
+        outline: none;
+        border: none;
+        font-size: 1rem;
+        font-weight: 600;
+        margin-top: 2.5rem;
+        border-bottom-left-radius: 25px;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+        cursor: pointer;
+    
+}
